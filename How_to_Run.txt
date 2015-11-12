@@ -1,0 +1,21 @@
+#How to run the program.
+
+Method 1:
+
+1)Copy Track.py,timing.py and test.txt file in Python folder in C directory.(All mention files should be in a python folder)
+
+2)Open the track.py file using IDLE(Integrated DeveLopment Environment).
+
+3)Using Python shell IDLE import track.py file usind "import track.py" command you will get desired output.
+
+Note : This code is for Python version 3.4 so if you try to run it in other version it will give errors like parenthesis missing etc.
+
+
+Method 2:
+
+1)Just copy the given folder "Thought" in your Eclipse workspace.
+
+2)Open the project using Eclipse with PyDev(Python IDLE for Eclipse).
+
+3)Run the track.py file to get an output.
+
